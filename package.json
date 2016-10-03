@@ -1,0 +1,25 @@
+{
+    "author": "alfredojdeleon@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "rocky-js-tutorial-watchface",
+    "pebble": {
+        "displayName": "Rocky JS Tutorial Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3c988c6c-3122-4515-a1a0-4ee551bff790",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
